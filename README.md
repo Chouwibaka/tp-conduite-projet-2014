@@ -77,5 +77,9 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * A Louis Chevalier,
 * Pancher Pierre-louis,
 * A Thibault Gauran,
+<<<<<<< HEAD
 * Dezere Florian,
 * Provost Valentin.
+=======
+* Basset Hector.
+>>>>>>> 75fbe12e3c356e62e207f93c0318a3cbb22c3ef8
