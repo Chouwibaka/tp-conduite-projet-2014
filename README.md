@@ -78,8 +78,15 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Pancher Pierre-louis,
 * A Thibault Gauran,
 <<<<<<< HEAD
+<<<<<<< HEAD
 * Dezere Florian,
 * Provost Valentin.
 =======
 * Basset Hector.
 >>>>>>> 75fbe12e3c356e62e207f93c0318a3cbb22c3ef8
+=======
+* Toulmonde Joris,
+* Godefroy Thieulart.
+* Basset Hector.
+* Dezere Florian.
+>>>>>>> cca1309d18a48f741c3d682426e8b6488ec97cea
