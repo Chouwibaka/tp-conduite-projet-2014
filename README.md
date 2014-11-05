@@ -70,23 +70,15 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Met-Montot Bertille,
 * Quesnel Guillaume,
 * Simon Roger,
-* Simon Roger,
 * Virgil Deschamps,
 * Tony Merrien,
 * Rémi Plantade,
 * A Louis Chevalier,
 * Pancher Pierre-louis,
 * A Thibault Gauran,
-<<<<<<< HEAD
-<<<<<<< HEAD
-* Dezere Florian,
-* Provost Valentin.
-=======
-* Basset Hector.
->>>>>>> 75fbe12e3c356e62e207f93c0318a3cbb22c3ef8
-=======
+* Provost Valentin,
+* Basset Hector,
 * Toulmonde Joris,
-* Godefroy Thieulart.
-* Basset Hector.
+* Godefroy Thieulart,
+* Basset Hector,
 * Dezere Florian.
->>>>>>> cca1309d18a48f741c3d682426e8b6488ec97cea
