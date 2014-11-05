@@ -81,5 +81,9 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Toulmonde Joris,
 * Godefroy Thieulart,
 * Basset Hector,
-* Dezere Florian.
-* Hello c'est moi.
+* Dezere Florian,
+* Guedouard Wajdi,
+* Godefroy Thieulart,
+* Basset Hector,
+* Dezere Florian,
+* Lemée Arthur.
